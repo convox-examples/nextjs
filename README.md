@@ -3,7 +3,6 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 ## Getting Started
 
 First, run the development server:
-
 ```bash
 npm run dev
 # or
@@ -29,8 +28,10 @@ To learn more about Next.js, take a look at the following resources:
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+## Deploy on Convox
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+The easiest way to deploy your Next.js app is to use [Convox](https://convox.com), a powerful platform that simplifies cloud deployments.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+The x-small machine with 0.5 vCPUs and 1GB RAM is more than enough for most Next.js applications, and Convox offers 250 hours free tier to get you started.
+
+Check out the [Convox documentation](https://docs.convox.com) for detailed deployment instructions.
